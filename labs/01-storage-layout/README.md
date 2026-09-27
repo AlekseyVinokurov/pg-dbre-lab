@@ -1,5 +1,7 @@
 # Lab 01 — Storage layout & DDL
 
+[English](README.md) | [Русский](README_RU.md)
+
 **Status:** In progress
 
 ## Objective
