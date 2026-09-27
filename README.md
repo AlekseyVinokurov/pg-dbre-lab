@@ -1,5 +1,7 @@
 # pg-dbre-lab
 
+[English](README.md) | [Русский](README_RU.md)
+
 **PostgreSQL Reliability & Performance Engineering Lab**
 
 A hands-on engineering repository for studying PostgreSQL from query execution and storage internals to failure analysis, recovery, replication, and production-style diagnostics.
